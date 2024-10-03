@@ -2,8 +2,6 @@
 
 Where little artists create big masterpieces!
 
-Sketch Land is a fun and interactive drawing application inspired by Etch-a-Sketch, built with HTML, CSS, and JavaScript.
-
 ## Features
 
 - 🎨 Customizable Color Selection: Use an easy-to-navigate color picker.
